@@ -7,14 +7,13 @@
 
 ## Description
 
-This assignmant required the user to work on exsiting code to optimize and improve the Search Engine Optimization
+This assignmant required the user to use routes and assign differnt thoughts and users to one another.
 
 ## Visuals
-![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
+![Horiseon](./18-vid.webm)
 
 ## Resources
-- [Live Video](https://mortalmx13.github.io/seo-refactor/)
 
-- [Respository](https://github.com/Mortalmx13/seo-refactor)
+- [Respository](https://github.com/Mortalmx13/social-network-api)
 
 
