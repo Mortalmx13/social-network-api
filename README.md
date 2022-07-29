@@ -10,7 +10,7 @@
 This assignmant required the user to use routes and assign differnt thoughts and users to one another.
 
 ## Visuals
-![Horiseon](./18-vid.webm)
+![social-network-api](./18-vid.webm)
 
 ## Resources
 
